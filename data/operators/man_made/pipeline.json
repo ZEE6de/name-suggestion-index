@@ -1,4 +1,8 @@
 {
+    "comment": "Only use the actual legal names for operator values, see opencorporates.com as reference"
+}
+
+{
   "properties": {
     "path": "operators/man_made/pipeline",
     "exclude": {"generic": ["^pipeline$"]}
